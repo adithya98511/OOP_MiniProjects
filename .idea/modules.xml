@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Email Application/Email Application.iml" filepath="$PROJECT_DIR$/Email Application/Email Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_MiniProjects.iml" filepath="$PROJECT_DIR$/.idea/OOP_MiniProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Salary Calculator/Salary Calculator.iml" filepath="$PROJECT_DIR$/Salary Calculator/Salary Calculator.iml" />
+    </modules>
+  </component>
+</project>
