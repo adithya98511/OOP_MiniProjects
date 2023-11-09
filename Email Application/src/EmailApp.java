@@ -1,2 +1,3 @@
-public class EmailApp {
+public class EmailApp
+{
 }
